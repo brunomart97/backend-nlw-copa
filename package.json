@@ -1,0 +1,27 @@
+{
+  "name": "backend-nlw-copa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomart97/backend-nlw-copa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunomart97/backend-nlw-copa/issues"
+  },
+  "homepage": "https://github.com/brunomart97/backend-nlw-copa#readme",
+  "devDependencies": {
+    "tsx": "^3.11.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "fastify": "^4.9.2"
+  }
+}
